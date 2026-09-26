@@ -40,7 +40,7 @@ Their processing is governed by their own privacy terms and applicable data-proc
 
 ## Retention and deletion
 
-Local data remains on your device until you delete it in Life Reset, uninstall the app or erase the device. Synchronized data remains while your account is active or as needed to operate and secure the service. You can erase local data from the app. Account and cloud-data deletion requests can be sent to the support contact below once published.
+Local data remains on your device until you delete it in Life Reset, uninstall the app or erase the device. Synchronized data remains while your account is active or as needed to operate and secure the service. You can erase local data and delete your account from the app. You can also follow the steps on the [account deletion page](delete-account) to request account and cloud-data deletion.
 
 Some purchase records may be retained by Apple, Google or RevenueCat for legal, accounting, fraud-prevention and entitlement purposes.
 
