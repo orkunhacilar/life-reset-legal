@@ -22,7 +22,7 @@ Apple App Store or Google Play processes payments. RevenueCat processes purchase
 
 ## Diagnostics and analytics
 
-If analytics is enabled in Privacy settings, Firebase Analytics may process app events and standard app, device and app-instance information to help understand feature usage. Life Reset does not send your Firebase account identifier, email, mood, check-in note content or presence, reset/program identity, motivation text or custom action text as custom analytics event content. You can turn analytics off in the app.
+If analytics is enabled in Privacy settings, Firebase Analytics may process app events and standard app, device and app-instance information to help understand feature usage. Firebase Analytics may also derive approximate geographic information from the device's IP address; Life Reset does not request precise GPS location for analytics. Life Reset does not send your Firebase account identifier, email, mood, check-in note content or presence, reset/program identity, motivation text or custom action text as custom analytics event content. You can turn analytics off in the app.
 
 Crash reporting is separate from the optional analytics setting. Firebase Crashlytics may process uncaught errors and technical information about the app, device and failure so crashes can be diagnosed. Life Reset does not attach your Firebase account identifier, email or user-entered reset text to crash reports through custom fields.
 
