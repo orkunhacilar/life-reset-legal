@@ -1,32 +1,34 @@
 # Life Reset Privacy Policy
 
-**Effective date:** 26 September 2026
+**Effective date:** 15 October 2026
 
 Life Reset is a habit and personal-reset application. This policy explains the information the app processes and the choices available to you.
 
 ## Information you provide
 
-Life Reset can store your chosen reset, daily actions, completion history, check-ins, mood, motivation, display name, favorites and settings. This information is stored on your device first. If you choose to sign in and enable sync, the app associates synchronized data with your Firebase account identifier.
+Life Reset can store your chosen reset, daily and custom actions, targets and units, completion and XP history, check-ins, mood, check-in notes, motivation, display name, favorites, reminder preferences and settings. This information is stored on your device first. If you choose to sign in, cloud synchronization starts automatically and associates synchronized data with your Firebase account identifier. Synchronized data can include the information listed above, reset history, achievements, reminder enablement choices and reminder times.
+
+Life Reset does not import raw measurements from HealthKit, Google Fit, Health Connect or device health sensors. Wellness-related information in the app consists of the actions, targets, mood, notes and progress that you choose to enter or record in Life Reset.
 
 Do not enter sensitive medical, financial or legal information in free-text fields. Life Reset is a general wellness product and is not a medical service.
 
 ## Account and sign-in information
 
-Account creation is optional. When you use Apple or Google sign-in, the identity provider supplies an account identifier and may supply your name or email according to your provider choices. Life Reset uses this information for authentication and synchronization. Passwords are handled by the identity provider and are not received by Life Reset.
+Account creation is optional. When you use Apple or Google sign-in, the identity provider supplies an account identifier and may supply your name, email or profile photo according to your provider choices. Life Reset uses this information for authentication, account display and synchronization. Passwords are handled by the identity provider and are not received by Life Reset.
 
 ## Purchases
 
-Apple App Store or Google Play processes payments. RevenueCat processes purchase status, product identifiers, entitlement status and an anonymous or app-user identifier so the app can unlock Pro features and restore purchases. Life Reset does not receive full payment-card details.
+Apple App Store or Google Play processes payments. RevenueCat processes purchase status, product identifiers, entitlement status and an anonymous or app-user identifier so the app can unlock Pro features and restore purchases. After sign-in, Life Reset associates the Firebase account identifier with the RevenueCat app-user identity. Life Reset does not receive full payment-card details.
 
 ## Diagnostics and analytics
 
-If analytics is enabled in Privacy settings, Firebase may process app events, device/app information and diagnostics to help improve reliability and understand feature usage. Life Reset does not send motivation text, custom action text or check-in notes as analytics event content. You can turn analytics off in the app.
+If analytics is enabled in Privacy settings, Firebase Analytics may process app events and standard app, device and app-instance information to help understand feature usage. Life Reset does not send your Firebase account identifier, email, mood, check-in note content or presence, reset/program identity, motivation text or custom action text as custom analytics event content. You can turn analytics off in the app.
 
-Crash reports may include technical information about the app, device and failure. They are used to diagnose errors.
+Crash reporting is separate from the optional analytics setting. Firebase Crashlytics may process uncaught errors and technical information about the app, device and failure so crashes can be diagnosed. Life Reset does not attach your Firebase account identifier, email or user-entered reset text to crash reports through custom fields.
 
 ## Notifications and widgets
 
-Notification preferences and schedules are stored on your device. Home-screen widgets can display a limited snapshot of your current progress in the platform's shared app container. Anyone with access to your unlocked device may be able to see widget content.
+Notification scheduling and delivery remain on your device. If you sign in, reminder enablement choices and reminder times are included in synchronized settings. The current app does not upload a push-notification token. Home-screen widgets can display a limited snapshot of your current progress in the platform's shared app container. Anyone with access to your unlocked device may be able to see widget content.
 
 ## Service providers
 
