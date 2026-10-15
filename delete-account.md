@@ -9,9 +9,9 @@ You can delete your Life Reset account and its synchronized data at any time.
 
 ## Delete from the app
 
-1. Open **Life Reset** and go to the **Profile** tab.
+1. Sign in, then tap the gear on **Today** to open Profile and Settings.
 2. Open **Your Data**.
-3. Tap **Delete My Account** and confirm.
+3. Tap **Delete My Account**, then confirm **Delete Account**.
 
 For security, Apple or Google may require you to sign in again before deletion. Account deletion removes your Firebase authentication account and synchronized Life Reset data. Data stored only on your device can be erased separately in the app or by uninstalling Life Reset.
 
